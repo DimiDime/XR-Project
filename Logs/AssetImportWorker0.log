@@ -15,7 +15,7 @@ C:/Users/Dimi/Documents/GitHub/VR_Trip_Prep/First_Project_Test
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62491
+50367
 Successfully changed project path to: C:/Users/Dimi/Documents/GitHub/VR_Trip_Prep/First_Project_Test
 C:/Users/Dimi/Documents/GitHub/VR_Trip_Prep/First_Project_Test
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,7 +47,7 @@ C:/Users/Dimi/Documents/GitHub/VR_Trip_Prep/First_Project_Test
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 113.83 ms, found 9 plugins.
+Refreshing native plugins compatible for Editor in 112.05 ms, found 9 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.2f1 (d6360bedb9a0)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity Editors/2021.3.2f1/Editor/Data/Resources/UnitySubsystems
@@ -63,80 +63,80 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity Editors/2021.3.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity Editors/2021.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity Editors/2021.3.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56672
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56556
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity Editors/2021.3.2f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity Editors/2021.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003467 seconds.
+Registered in 0.003555 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 104.09 ms, found 9 plugins.
+Refreshing native plugins compatible for Editor in 111.06 ms, found 9 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.684 seconds
+- Completed reload, in  0.694 seconds
 Domain Reload Profiling:
-	ReloadAssembly (684ms)
-		BeginReloadAssembly (69ms)
+	ReloadAssembly (694ms)
+		BeginReloadAssembly (67ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (505ms)
-			LoadAssemblies (67ms)
+		EndReloadAssembly (513ms)
+			LoadAssemblies (66ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (108ms)
+			SetupTypeCache (112ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (29ms)
-			SetupLoadedEditorAssemblies (313ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (317ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (56ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (104ms)
+				RefreshPlugins (111ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (104ms)
-				ProcessInitializeOnLoadMethodAttributes (47ms)
+				ProcessInitializeOnLoadAttributes (103ms)
+				ProcessInitializeOnLoadMethodAttributes (44ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.008327 seconds.
+Registered in 0.010454 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\Dimi\Documents\GitHub\VR_Trip_Prep\First_Project_Test\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\Dimi\Documents\GitHub\VR_Trip_Prep\First_Project_Test\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 125.37 ms, found 9 plugins.
+Refreshing native plugins compatible for Editor in 108.45 ms, found 9 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Package Manager log level set to [2]
 Mono: successfully reloaded assembly
-- Completed reload, in  1.497 seconds
+- Completed reload, in  1.549 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1498ms)
-		BeginReloadAssembly (205ms)
+	ReloadAssembly (1550ms)
+		BeginReloadAssembly (217ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (8ms)
+			DisableScriptedObjects (10ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (121ms)
-		EndReloadAssembly (1183ms)
-			LoadAssemblies (79ms)
+			CreateAndSetChildDomain (129ms)
+		EndReloadAssembly (1217ms)
+			LoadAssemblies (86ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (334ms)
+			SetupTypeCache (358ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (63ms)
-			SetupLoadedEditorAssemblies (645ms)
+			RebuildScriptCaches (82ms)
+			SetupLoadedEditorAssemblies (629ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (13ms)
+				InitializePlatformSupportModulesInManaged (12ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (125ms)
-				BeforeProcessingInitializeOnLoad (109ms)
-				ProcessInitializeOnLoadAttributes (314ms)
-				ProcessInitializeOnLoadMethodAttributes (76ms)
-				AfterProcessingInitializeOnLoad (6ms)
+				RefreshPlugins (109ms)
+				BeforeProcessingInitializeOnLoad (127ms)
+				ProcessInitializeOnLoadAttributes (297ms)
+				ProcessInitializeOnLoadMethodAttributes (79ms)
+				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (4ms)
@@ -144,12 +144,12 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.93 ms, found 9 plugins.
+Refreshing native plugins compatible for Editor in 1.03 ms, found 9 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4305 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 54 unused Assets / (113.5 KB). Loaded Objects now: 4743.
-Memory consumption went from 164.4 MB to 164.3 MB.
-Total: 3.663600 ms (FindLiveObjects: 0.421600 ms CreateObjectMapping: 0.124400 ms MarkObjects: 2.982000 ms  DeleteObjects: 0.133500 ms)
+Unloading 4899 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 54 unused Assets / (113.6 KB). Loaded Objects now: 5338.
+Memory consumption went from 168.5 MB to 168.4 MB.
+Total: 4.667900 ms (FindLiveObjects: 0.703800 ms CreateObjectMapping: 0.362300 ms MarkObjects: 3.355200 ms  DeleteObjects: 0.243900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -163,49 +163,87 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 421388.236722 seconds.
-  path: Assets/Prefabs/Combined 2D Axis.prefab
-  artifactKey: Guid(c11de7f70ff967b4cb737fe0e0a87218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Combined 2D Axis.prefab using Guid(c11de7f70ff967b4cb737fe0e0a87218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10445540adc95161fde2c77af0d36065') in 0.058654 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.101133 seconds.
-  path: Assets/Scenes/Online Multiplayer Ball Scene.unity
-  artifactKey: Guid(93a56b11a4efc184c8591a8f0fa06a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Online Multiplayer Ball Scene.unity using Guid(93a56b11a4efc184c8591a8f0fa06a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b4b60d15c8f1bec538582016c1da4b5') in 0.010281 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 322.971938 seconds.
-  path: Packages/com.miragenet.mirage/Authenticators/BasicAuthenticator.cs
-  artifactKey: Guid(28496b776660156428f00cf78289c1ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.miragenet.mirage/Authenticators/BasicAuthenticator.cs using Guid(28496b776660156428f00cf78289c1ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b569e6de12e7b238e46df6c4100e92f4') in 0.049617 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 34.584688 seconds.
-  path: Assets/Samples/Mirage/123.1.0/Tanks
-  artifactKey: Guid(beeba78a454826e4b94084aa9642bbd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Samples/Mirage/123.1.0/Tanks using Guid(beeba78a454826e4b94084aa9642bbd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb6b0def77d28f6fa88d9d0890f96a74') in 0.007059 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 8.076463 seconds.
+  Time since last request: 423600.607905 seconds.
   path: Assets/Samples/Mirage/123.1.0/Tanks/Scenes
   artifactKey: Guid(91225a3fc58fe4a7f9e10718cd3bdc61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Samples/Mirage/123.1.0/Tanks/Scenes using Guid(91225a3fc58fe4a7f9e10718cd3bdc61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e16c94c9df833b0039b65c2f627c5b12') in 0.017274 seconds 
+Start importing Assets/Samples/Mirage/123.1.0/Tanks/Scenes using Guid(91225a3fc58fe4a7f9e10718cd3bdc61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4371524ffddcff85b8a53e51092a7e9') in 0.012611 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.566620 seconds.
+  Time since last request: 3.215734 seconds.
   path: Assets/Samples/Mirage/123.1.0/Tanks/Scenes/Scene.unity
   artifactKey: Guid(83f9d2fb76f5742448c6e51f258327a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Samples/Mirage/123.1.0/Tanks/Scenes/Scene.unity using Guid(83f9d2fb76f5742448c6e51f258327a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53dab75d43b773404c4f1fd7845d89ae') in 0.012732 seconds 
+Start importing Assets/Samples/Mirage/123.1.0/Tanks/Scenes/Scene.unity using Guid(83f9d2fb76f5742448c6e51f258327a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a8342bd9e777c05f803a2f19db6164f') in 0.024193 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 466.298532 seconds.
-  path: Assets/Scenes/LocalMultiplayerBallScene.unity
-  artifactKey: Guid(305c1754a6df2a54bb6e64ab7cad71e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/LocalMultiplayerBallScene.unity using Guid(305c1754a6df2a54bb6e64ab7cad71e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d75e9b2280934f78bdde28ef6bd9a4e') in 0.020042 seconds 
+  Time since last request: 930.258968 seconds.
+  path: Assets/Samples/Mirage/123.1.0/Tanks/Scenes/Scene
+  artifactKey: Guid(81cfd31f234d94a0985fe946d2ce699f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mirage/123.1.0/Tanks/Scenes/Scene using Guid(81cfd31f234d94a0985fe946d2ce699f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54f9deb19bea17c3a081b6ad9b01dd1a') in 0.022446 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.770466 seconds.
-  path: Assets/Scenes/SinglePlayerBallScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SinglePlayerBallScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0db8575db744c54aad7a1ed8ce002fb') in 0.018610 seconds 
+  Time since last request: 458.188593 seconds.
+  path: Assets/Samples/Mirage/123.1.0/Tanks/Scripts
+  artifactKey: Guid(3815d4126f2934af187ce078c648bbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mirage/123.1.0/Tanks/Scripts using Guid(3815d4126f2934af187ce078c648bbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cb40307160f96da794f156966114cb3') in 0.018124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.917577 seconds.
+  path: Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Tank.prefab
+  artifactKey: Guid(6f43bf5488a7443d19ab2a83c6b91f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Tank.prefab using Guid(6f43bf5488a7443d19ab2a83c6b91f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried select unknown importer for id '-2' '00000000000000000000000000000000'
+ -> (artifact id: '432b59f8ac77ff6e1a777213cfbe2d2b') in 0.382844 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 87.906489 seconds.
+  path: Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Tank.prefab
+  artifactKey: Guid(6f43bf5488a7443d19ab2a83c6b91f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Tank.prefab using Guid(6f43bf5488a7443d19ab2a83c6b91f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried select unknown importer for id '-2' '00000000000000000000000000000000'
+ -> (artifact id: '3c5d06b1904fb91ac10a3537e0299062') in 0.033729 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.195105 seconds.
+  path: Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Tank.prefab
+  artifactKey: Guid(6f43bf5488a7443d19ab2a83c6b91f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Tank.prefab using Guid(6f43bf5488a7443d19ab2a83c6b91f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried select unknown importer for id '-2' '00000000000000000000000000000000'
+ -> (artifact id: 'e34ffa1068f0a5711a45ed78e6f239a6') in 0.031032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 277.603300 seconds.
+  path: Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Projectile.prefab
+  artifactKey: Guid(b7dd46dbf38c643f09e206f9fa4be008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Projectile.prefab using Guid(b7dd46dbf38c643f09e206f9fa4be008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e174632522d8e3b146c160838508a65') in 0.026412 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 113.683891 seconds.
+  path: Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Tank.prefab
+  artifactKey: Guid(6f43bf5488a7443d19ab2a83c6b91f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Tank.prefab using Guid(6f43bf5488a7443d19ab2a83c6b91f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried select unknown importer for id '-2' '00000000000000000000000000000000'
+ -> (artifact id: '57ca5e58e524add1f7284aeeb61180b4') in 0.027280 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 33.737689 seconds.
+  path: Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Tank.prefab
+  artifactKey: Guid(6f43bf5488a7443d19ab2a83c6b91f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Tank.prefab using Guid(6f43bf5488a7443d19ab2a83c6b91f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried select unknown importer for id '-2' '00000000000000000000000000000000'
+ -> (artifact id: '1419dfb28ea9685b3b58a724eee92d16') in 0.029878 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 67.027164 seconds.
+  path: Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Tank.prefab
+  artifactKey: Guid(6f43bf5488a7443d19ab2a83c6b91f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Tank.prefab using Guid(6f43bf5488a7443d19ab2a83c6b91f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried select unknown importer for id '-2' '00000000000000000000000000000000'
+ -> (artifact id: '9e9dc9b04b90447fecfb3dd764522e98') in 0.042305 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 61.463636 seconds.
+  path: Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Tank.prefab
+  artifactKey: Guid(6f43bf5488a7443d19ab2a83c6b91f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Tank.prefab using Guid(6f43bf5488a7443d19ab2a83c6b91f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried select unknown importer for id '-2' '00000000000000000000000000000000'
+ -> (artifact id: 'cb21686fe0153a51821e5192c3fc76e1') in 0.022369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 80.325769 seconds.
+  path: Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Tank.prefab
+  artifactKey: Guid(6f43bf5488a7443d19ab2a83c6b91f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Mirage/123.1.0/Tanks/Prefabs/Tank.prefab using Guid(6f43bf5488a7443d19ab2a83c6b91f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried select unknown importer for id '-2' '00000000000000000000000000000000'
+ -> (artifact id: '4400380ccfc944d8528647690fd9c00a') in 0.025957 seconds 
