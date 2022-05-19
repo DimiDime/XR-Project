@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SinglePlayerBallScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Online Multiplayer Ball Scene.unity
+    guid: 848c7915cd696cc4ca8f963716b919ce
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5229d6cfc82bddf46b30ac889a9b9155, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 929a42af5988fc94088ee6242dab2844, type: 2}
