@@ -1,13 +1,5 @@
 {
-  "scopedRegistries": [
-    {
-      "name": "npmjs",
-      "url": "https://registry.npmjs.org/",
-      "scopes": [
-        "io.extendreality"
-      ]
-    }
-  ],
+  
   "dependencies": {
     "com.miragenet.mirage": "123.1.0",
     "com.unity.collab-proxy": "1.15.16",
