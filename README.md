@@ -1,4 +1,4 @@
-*** LaDEE-Workshop ***
+# LaDEE-Workshop
 
 This project combines state-of-the-art VR technology and User interaction. The aim is to create a multiuser environment that other users can access remotely.
 
@@ -17,4 +17,4 @@ Estonia's Tallinn University of Technology (TalTech) Product development, produc
 Italian organisation Consiglio Nazionale Delle Ricerche – STIIMA (CNR-STIIMA). Promoting industrial innovation, CNR-STIIMA carries out key actions in scientific research and technological development for the manufacturing industries in Italy and Europe, ensuring their competitiveness and sustainability.
 
 
-Demo dame is a workshop for [VirLaDee](https://www.linkedin.com/in/virladee-erasmus-plus-project-71719a209/?originalSubdomain=dk)
+> Demo dame is a workshop for [VirLaDee](https://www.linkedin.com/in/virladee-erasmus-plus-project-71719a209/?originalSubdomain=dk)
