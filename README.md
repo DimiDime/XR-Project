@@ -1,4 +1,4 @@
-# LaDEE-Workshop
+# VirLaDee-Workshop
 
 This project combines state-of-the-art VR technology and User interaction. The aim is to create a multiuser environment that other users can access remotely.
 
