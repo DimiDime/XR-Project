@@ -1,6 +1,6 @@
 # VirLaDee-Workshop
 
-Developed a multi-user VR application enabling remote access to virtual engineering laboratories.
+Developed a multi-user VR application in Unity, enabling remote access to virtual engineering laboratories.
 
 The project focuses on creating digital twins of physical lab environments, allowing users to interact with equipment and simulate real-world engineering scenarios in an immersive setting. This helps bridge the gap between theoretical learning and hands-on practice, especially in areas such as robotics and automation.
 
