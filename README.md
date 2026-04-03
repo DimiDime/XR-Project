@@ -1,4 +1,4 @@
-# VirLaDee-Workshop
+# VirLaDee-Project @ Taltech in Tallinn, Estonia
 
 Developed a multi-user VR application in Unity, enabling remote access to virtual engineering laboratories.
 
